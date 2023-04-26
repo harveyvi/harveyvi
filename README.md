@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harveyvi, Victoria
 - 👀 I’m interested in Memory EV
-- 🌱 I’m currently learning python, data analysis, common flows, avdrrx
-- 💞️ I’m looking to collaborate on python, data analysis, common flows, avdrrx
+- 🌱 I’m currently learning python, data analysis, common flows, avddrx
+- 💞️ I’m looking to collaborate on python, data analysis, common flows, avddrx
 - 📫 How to reach me on Teams 
 
 <!---
